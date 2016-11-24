@@ -44,3 +44,10 @@ I unique identifier for the file . East commit has a unique identifier. Like thi
  
  These are the master branch. Lets say we want to add a branch by clicking the branch bench on the left corner. 
  
+ Now we have created a different bench for this tutorial. Lets say, we like the idea of introducing a new bench and it worked well. So, now we can merge the two benches into a single bench.  But how
+ 
+ First we need to see the benchs in our graph. If we like the bench. We can make a pull request which simply means merge the two brenches together.
+The good thing is that you can see all the changes in the graph. 
+
+
+ 
