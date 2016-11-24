@@ -21,5 +21,9 @@ It is like a project where you can add multiple files.
 4- Commit: 
 
 It is similar to saving your files or may be codes. 
+
 "When a modified file is placed back into the repository, thus indicating a revision has occurred, this is considered a commit of the file."
 
+5- Commit Hash: 
+
+I unique identifier for the file . East commit has a unique identifier. Like this file for instance. Its hash tag is 
