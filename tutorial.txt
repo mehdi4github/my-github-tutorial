@@ -1,14 +1,25 @@
 This is just an simple file. It does not do much. Just learning how to make new repo.
 
 link to this tutorial https://www.youtube.com/watch?v=BCQHnlnPusY
+and http://www.codingdojo.com/blog/git-tutorial-for-beginners/
 
-Colors of rainbow:
-Blue 
-Red 
-Green 
-Yellow
-Organe
-Voilet 
-Indigo
+So the key concepts in git:
 
+1- Git: 
+It is basically a version control system. Invented by the same guy that created Linux.  It also have other important feature called collabrate. Different people working on same file at same time.
+
+"A software application that records changes made to a set of files over time, allowing specific historical versions to be recalled and restored as necessary."
+
+2- Git Hub: 
+
+It is a webserve. You can signup and get your codes. It is social coder. 
+
+3- Reposotory:
+It is like a project where you can add multiple files.
+"A shared database with a full revision history of all files under version control."
+
+4- Commit: 
+
+It is similar to saving your files or may be codes. 
+"When a modified file is placed back into the repository, thus indicating a revision has occurred, this is considered a commit of the file."
 
