@@ -2,9 +2,13 @@ This is just an simple file. It does not do much. Just learning how to make new 
 
 link to this tutorial https://www.youtube.com/watch?v=BCQHnlnPusY
 
-Colors of rainbow 
-red 
-blue 
-green 
-yellow
-purple
+Colors of rainbow:
+Blue 
+Red 
+Green 
+Yellow
+Organe
+Voilet 
+Indigo
+
+
