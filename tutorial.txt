@@ -26,4 +26,21 @@ It is similar to saving your files or may be codes.
 
 5- Commit Hash: 
 
-I unique identifier for the file . East commit has a unique identifier. Like this file for instance. Its hash tag is 
+I unique identifier for the file . East commit has a unique identifier. Like this file for instance. Its hash tag is e9aca2c. But it will change as we make more changes. 
+
+6- Branches 
+ Most powerful and somewhat unique features of Git is branching, which allows development within a repository to occur simultaneously within completely separate branches.  Revisions in unique branches will have no effect on one another until those branches are merged (joined together) at a later time.
+ 
+ In our case  we have 
+        my-github-tutorial
+            |
+        commit (changed happened and has unique identifier)
+            |
+        commit (changed happened and has unique identifier)
+            |
+        commit (changed happened and has unique identifier)
+            |
+        commit (changed happened and has unique identifier)
+ 
+ These are the master branch. Lets say we want to add a branch by clicking the branch bench on the left corner. 
+ 
