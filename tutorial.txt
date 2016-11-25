@@ -50,4 +50,18 @@ I unique identifier for the file . East commit has a unique identifier. Like thi
 The good thing is that you can see all the changes in the graph. 
 
 
- 
+
+7- Fork: 
+
+Exact replica which means I can take the exact copy of the repo and do anything I want without changing to the original code. If you don't have the permission to change it. Then you can fork it. 
+
+
+8- Pull Request: 
+
+It means if someone made changes to your program. They will request a pull, which means they want you to accept the changes that they made. 
+
+9- Issue: 
+Leave a comments on the project. Like I noticed spelling error, please add this feature, I found a bug in your project. The issue remains open untill it is solved or the owner or the creator of issue  declared it close. 
+
+All the issue has id number. It will help to commit on relevant issue. 
+
